@@ -1,0 +1,1152 @@
+header{
+
+    height: auto;
+    background-color: #D7D0BA;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 10px;
+    }
+    a{
+        text-decoration: none;
+        color: #000;
+        font-family: "Bebas Neue", sans-serif;
+        font-size: 85pt;
+        text-align: center;
+    }
+    .socials{
+    
+        float: left;
+    }
+    .insta{
+        padding-left: 225px;
+        padding-right: 30px;
+    }
+    .cart{
+        padding-right: 30px;
+    }
+    .hamburger{
+        padding-right: 300px;
+    }
+    
+   
+}
+
+body{
+    background: #E8E8E8;
+}
+.mainmenu{
+    font-family: "Tomorrow", sans-serif;
+    float: left;
+    padding-right: 175px;
+    padding-left: 60px;
+    padding-top: 65px;    
+    text-align: center;
+    line-height: 55px;
+}
+.mainmenucontainer{
+    display: flex;
+    max-width: 100%;
+    max-height: auto;
+
+
+   
+
+  
+}
+.mainmenupicsrow{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.mainmenupics{
+    flex: 50%;
+    padding-left: 75px;
+    padding-right: 35px;
+    padding-top: 75px;
+    
+}
+.menusmall{
+    font-size: 20pt;
+    text-decoration: none;
+    color: #000000;
+    
+}
+.menubig{
+    font-size: 39pt;
+    text-decoration: none;
+    color: #AA6B47;
+}
+.hero{
+    font-family: "Tomorrow", sans-serif;
+    color: #546F43;
+    float: left;
+    padding-left: 53%;
+    text-align: center;
+    font-size: 20pt;
+}
+.ourstory{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 39pt;
+    color: #AA6B47;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.ourstoryphotos{
+    position: relative;
+    top: 0;
+    left: 0;
+    float: left;
+}
+.ourstory1{
+    position: relative;
+  top: 0;
+  left: 125px;
+  
+}
+.ourstory2{
+    position: absolute;
+  top: 500px;
+  left: 125px;
+  
+}
+.ourstorytext{
+    text-align: center;
+    font-family:  "Tomorrow", sans-serif;
+    line-height: 30px;
+    padding-left: 800px;
+    width: 300px;
+    height: 800px;
+    font-size: 16pt;
+}
+.contactus{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 39pt;
+    color: #AA6B47;
+    text-align: center;
+    padding-top: 160px;
+}
+.hourslocation{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 27pt;
+    color: black;
+    text-align: center;
+    font-weight: 400;
+    padding-bottom: 3%;
+}
+.contactinfocontainer{
+    font-family: "Bebas Neue", sans-serif;
+    color: #AA6B47;
+    font-size: 18pt;
+}
+.mapwidget{
+    width: 500px;
+    height: 300px;
+    padding-left: 10%;
+    float: left;
+}
+.address{
+    width: 400px;
+    padding-left: 65%;
+    padding-bottom: 50px;
+}
+.phone{
+    width: 400px;
+    padding-left: 65%;
+    padding-bottom: 50px;
+
+}
+.hours{
+    width: 400px;
+    padding-left: 65%;
+}
+.deliverylinks{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 39pt;
+    color: #AA6B47;
+    text-align: center;
+    margin-top: 250px;
+}
+.doordashlink{
+    font-family: "Bebas Neue", sans-serif;
+    color: black;
+    font-size: 35pt;
+    margin-right: 25px;
+}
+.grubhublink{
+    font-family: "Bebas Neue", sans-serif;
+    color: black;
+    font-size: 35pt;
+    margin-left: 25px;
+
+
+}
+
+.applinks{
+    justify-content: space-evenly;
+    margin: 50px;
+    text-align: center;
+    
+}
+.contactform{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 27pt;
+    color: black;
+    text-align: center;
+    font-weight: 400;
+    padding-top: 9%;
+}
+.feedback-input1{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 15pt;
+    width: 45%;
+    padding: 15px;
+    margin: 15px;
+}
+.firstandlast{
+    display: flex;
+    
+}
+.feedback-input2{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 15pt;
+    display: flex;
+    margin: 15px;
+    width: 94.5%;
+    padding: 15px;
+}
+[type="submit"]{
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 16pt;
+    height: 70px;
+    background-color: #546F43;
+    margin-left: 1%;
+    text-align: center;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 23px;
+    padding-bottom: 25px;
+}
+.events{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 39pt;
+    color: #AA6B47;
+    text-align: center;
+    padding-bottom: 100px;
+}
+.comingsoonevents{
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 25pt;
+    text-align: center;
+}
+.news{
+    font-family: "Tomorrow", sans-serif;
+    font-size: 39pt;
+    color: #AA6B47;
+    text-align: center; 
+    padding-bottom: 100px;
+}
+.comingsoonnews{
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 25pt;
+    text-align: center;
+    padding-bottom: 100px;
+}
+footer{
+    background-color: #D7D0BA;
+    height: auto;
+    width: 100%;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 17pt;
+    text-align: center;
+    padding: 20px;
+}
+
+.ourmenubody{
+.ourmenu{
+    text-align: center;
+    padding-left: 35%;
+    text-decoration: none;
+        color: #000;
+        font-family: "Bebas Neue", sans-serif;
+        font-size: 85pt;
+        text-align: center;
+        font-weight: 525;
+
+}
+.home{
+    padding-right: 225px;
+}
+
+.foodcontainer{
+display: flex;
+flex-direction: row;
+
+.breakfastcontainer{
+    display: flex;
+    padding-left: 115px;
+    flex-direction: column;
+    font-size: 12pt;
+padding-right: 330px;
+    .breakfasttitle{
+        font-family: "Bebas Neue", sans-serif;
+        color: #546F43;
+        font-size: 35pt;
+        font-weight: bolder;
+    }
+    .breakfastfood{
+        font-family: "Tomorrow", sans-serif;
+        font-weight: bold;
+        font-size: 17pt;
+    }
+
+    .breakfastfoodinfo{
+        font-family: "Tomorrow", sans-serif;
+        font-weight: 530;
+        color: #AA6B47;
+    }
+
+}
+
+.lunchcontainer{
+        display: flex;
+        flex-direction: column;
+        font-size: 12pt;
+        
+    .lunchtitle{
+        font-family: "Bebas Neue", sans-serif;
+        color: #546F43;
+        font-size: 35pt;
+        font-weight: bolder;
+
+        
+    }
+
+    .lunchfood{
+        font-family: "Tomorrow", sans-serif;
+        font-weight: bold;
+        font-size: 18pt;
+    }
+
+    .lunchfoodinfo{
+        font-family: "Tomorrow", sans-serif;
+        font-weight: 530;
+        color: #AA6B47;
+    }
+}
+
+}
+.drinkscontainer{
+
+    .drinkstitle{
+        font-family: "Bebas Neue", sans-serif;
+        color: #546F43;
+        font-size: 35pt;
+        font-weight: bolder;
+        text-align: center;
+    }
+    .drinks{
+        font-family: "Tomorrow", sans-serif;
+        font-weight: bold;
+        font-size: 17pt;
+        padding-left: 115px;
+
+
+    }
+    .drinksprice{
+        font-family: "Tomorrow", sans-serif;
+        font-weight: 530;
+        color: #AA6B47;
+        text-align: center;
+    }
+    
+    
+    .drinks1and2{
+        display: flex;
+        justify-content: space-evenly;
+        
+        flex-direction: row;
+    }
+
+}
+
+.pastriescontainer{
+    .pastriestitle{
+        font-family: "Bebas Neue", sans-serif;
+        color: #546F43;
+        font-size: 35pt;
+        font-weight: bolder;
+        text-align: center;
+
+    }
+}
+
+.otherscontainer{
+    .otherstitle{
+        font-family: "Bebas Neue", sans-serif;
+        color: #546F43;
+        font-size: 35pt;
+        font-weight: bolder;
+        text-align: center;
+
+    }
+}
+.orderbuttoncontainer{
+    margin-left: 40%;
+    margin-bottom: 125px;
+    margin-top: 125px;
+.ordernowbutton{
+
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 30pt;
+    height: 70px;
+    background-color: #546F43;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 60px;
+    padding-right: 65px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    
+
+}
+}
+
+}
+.ourmenufooter{
+    background-color: #D7D0BA;
+    height: auto;
+    width: 100%;
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 25pt;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+@media (max-width: 1536px) {
+
+
+}
+@media (max-width: 1280px) {
+
+
+    .menusmall{
+        font-size: 24pt;
+        text-decoration: none;
+        color: #000000;
+        
+    }
+    .menubig{
+        font-size: 34pt;
+        text-decoration: none;
+        color: #AA6B47
+    }
+    .mainmenupicsrow{
+        display: flex;
+        justify-content: space-evenly
+    }
+    
+    .mainmenupics{
+        flex: 50%;
+        padding-left: 75px;
+        padding-right: 35px;
+        padding-top: 75px;
+
+        .graffitiwall{
+            width: 350px;
+            height: 500px;
+        }
+        .wallwithsign{
+            width: 275px;
+            height: 500px;
+        }
+        
+    }
+
+    .mapwidget{
+        width: 450px;
+        height: 250px;
+        padding-left: 10%;
+        float: left;
+    }
+    .contactinfocontainer{
+       .locationicon{
+        padding-left: 100px;
+        float: left;
+        padding-right: 28px;
+       }
+       .phoneicon{
+        padding-left: 100px;
+        padding-right: 30px;
+
+       }
+       .clockicon{
+        padding-left: 100px;
+        padding-right: 5px;
+
+       }
+      .address{
+        
+      }
+      .phone{
+        
+      }
+        .hours{
+           padding-left: 67%;
+            
+        }
+        }
+      
+    }
+    .ourmenu{
+        font-size: 10pt;
+    }
+
+
+@media (max-width: 1024px) {
+    .mainmenu{
+        padding-right: 75px;
+    }
+    .menusmall{
+        font-size: 20pt;
+        text-decoration: none;
+        color: #000000;
+        
+    }
+    .menubig{
+        font-size: 30pt;
+        text-decoration: none;
+        color: #AA6B47
+    }
+    .mainmenupicsrow{
+        display: flex;
+        justify-content: space-evenly
+    }
+    
+    .mainmenupics{
+        flex: 50%;
+        padding-left: 60px;
+        padding-right: 35px;
+        padding-top: 75px;
+
+        .graffitiwall{
+            width: 300px;
+            height: 450px;
+        }
+        .wallwithsign{
+            width: 225px;
+            height: 450px;
+        }
+        
+    }
+    header{
+    .insta{
+        padding-left: 125px;
+        padding-right: 20px;
+    }
+}
+
+    .hero{
+        font-size: 17pt;
+    }
+    .ourstory{
+        font-size: 33pt;
+    }
+    .ourstorytext{
+        padding-left: 600px;
+    }
+    .deliverylinks{
+        font-size: 33pt;
+    }
+    .contactus{
+        font-size: 33pt;
+    }
+    .hourslocation{
+        font-size: 22pt;
+    }
+    .mapwidget{
+        width: 425px;
+        height: 225px;
+        padding-left: 8%;
+        float: left;
+        
+    }
+   
+    .contactinfocontainer{
+        .locationicon{
+         padding-left: 20px;
+         
+         padding-right: 28px;
+        }
+        .phoneicon{
+         padding-left: 100px;
+         padding-right: 30px;
+ 
+        }
+        .clockicon{
+         padding-left: 100px;
+         padding-right: 5px;
+ 
+        }
+       .address{
+        font-size: 17pt;
+         
+       }
+       .phone{
+         font-size: 17pt;
+       }
+         .hours{
+         font-size: 17pt;
+
+            padding-left: 78%;
+             
+         }
+         }
+         .contactform{
+            padding-top: 14%;
+            font-size: 22pt;
+         }
+         
+         .events{
+            font-size: 33pt;
+         }
+         .comingsoonevents{
+            font-size: 22pt;
+         }
+         .news{
+            font-size: 33pt;
+         }
+         .comingsoonnews{
+            font-size: 22pt;
+         }
+         footer{
+            font-size: 15pt;
+
+         }
+         
+}
+.ourmenubody{
+    .ourmenu{
+    font-size: 85pt;
+}
+.home{
+    padding-right: 150px;
+}
+}
+@media (max-width: 768px) {
+header{
+    a{
+        font-size: 70pt;
+    }
+    .insta{
+        padding-left: 75px;
+        padding-right: 10px;
+    }
+}
+.mainmenu{
+    padding-right: 50px;
+    line-height: 80px;
+}
+.menusmall{
+    font-size: 22pt;
+    text-decoration: none;
+    color: #000000;
+    
+}
+.menubig{
+    font-size: 33pt;
+    text-decoration: none;
+    color: #AA6B47
+}
+.mainmenupicsrow{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.mainmenupics{
+    padding-left: 100px;
+    padding-right: 35px;
+    padding-top: 75px;
+    
+
+    .graffitiwall{
+        width: 250px;
+        height: 350px;
+        
+    }
+    .wallwithsign{
+        width: 240px;
+        height: 350px;
+        
+    }
+    
+}
+.hero{
+    padding-left: 32%;
+    padding-top: 25px;
+    font-size: 15pt;
+}
+.ourstory{
+    font-size: 29pt;
+}
+.ourstory1{
+    width: 275px;
+    height: 375px;
+    left: 60px;
+}
+.ourstory2{
+    width: 265px;
+    height: 365px;
+    left: 60px;
+    top: 400px;
+}
+.ourstorytext{
+    font-size: 13pt;
+    padding-left: 400px;
+}
+.deliverylinks{
+    margin-top: 60px;
+    font-size: 29pt;
+}
+.grubhublink{
+    font-size: 27pt;
+}
+.doordashlink{
+    font-size: 27pt;
+}
+.contactus{
+    padding-top: 10px;
+    font-size: 29pt;
+}
+.hourslocation{
+    font-size: 18pt;
+}
+.mapwidget{
+    width: 525px;
+        height: 250px;
+        padding-left: 14%;
+        float: left;
+}
+.contactinfocontainer{
+   padding-top: 550px;
+   padding-left: 70px;
+
+   .locationicon{
+    padding-right: 25px;
+   }
+   
+   .address{
+    font-size: 15pt;
+    padding-left: 150px;
+    
+   }
+   .phone{
+     font-size: 15pt;
+    padding-left: 50px;
+
+   }
+     .hours{
+     font-size: 15pt;
+
+        padding-left: 39%;
+         
+     }
+    
+}
+.contactform{
+    padding-top: 40px;
+    font-size: 18pt;
+}
+.events{
+font-size: 29pt;
+}
+.news{
+font-size: 29pt;
+
+}
+footer{
+    font-size: 10pt;
+}
+}
+@media (max-width: 640px) {
+    header{
+        a{
+            font-size: 60pt;
+        }
+        .insta{
+            height: 45px;
+            width: 45px;
+            padding-left: 75px;
+            padding-right: 10px;
+        }
+        .facebook{
+            height: 45px;
+            width: 45px;
+        }
+        
+    }
+    .mainmenu{
+        padding-right: 30px;
+        line-height: 65px;
+    }
+    .menusmall{
+        font-size: 20pt;
+        text-decoration: none;
+        color: #000000;
+        
+    }
+    .menubig{
+        font-size: 30pt;
+        text-decoration: none;
+        color: #AA6B47
+    }
+    .mainmenupicsrow{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+    .mainmenupics{
+        padding-left: 100px;
+        padding-right: 35px;
+        padding-top: 75px;
+        
+    
+        .graffitiwall{
+            width: 245px;
+            height: 300px;
+            
+        }
+        .wallwithsign{
+            width: 235px;
+            height: 300px;
+            
+        }
+        
+    }
+    .hero{
+        padding-left: 30%;
+        padding-top: 25px;
+        font-size: 13pt;
+    }
+    .ourstory{
+        font-size: 26pt;
+    }
+    .ourstory1{
+        width: 225px;
+        height: 355px;
+        left: 50px;
+    }
+    .ourstory2{
+        width: 215px;
+        height: 345px;
+        left: 50px;
+        top: 400px;
+    }
+    .ourstorytext{
+        font-size: 11pt;
+        padding-left: 315px;
+        line-height: 40px;
+    }
+    .contactus{
+        font-size: 26pt;
+    }
+    
+    .hourslocation{
+        font-size: 16pt;
+    }
+    .deliverylinks{
+        font-size: 26pt;
+    }
+    .grubhublink{
+        font-size: 24pt;
+
+    }
+    .doordashlink{
+        font-size: 24pt;
+    }
+    .mapwidget{
+        padding-left: 7%;
+    }
+    .contactinfocontainer{
+        padding-top: 550px;
+        padding-left: 0px;
+     
+        .locationicon{
+         padding-right: 25px;
+        }
+        
+        .address{
+         font-size: 14pt;
+         padding-left: 150px;
+         
+        }
+        .phone{
+          font-size: 14pt;
+         padding-left: 50px;
+     
+        }
+          .hours{
+          font-size: 14pt;
+     
+             padding-left: 43%;
+              
+          }
+         
+     }
+     .contactform{
+        font-size: 16pt;
+     }
+     .events{
+        font-size: 26pt;
+     }
+     .news{
+        font-size: 26pt;
+     }
+
+     footer{
+        font-size: 8pt;
+     }
+
+    
+     .ourmenubody{
+        .ourmenu{
+            font-size: 75pt;
+        }
+        .home{
+            padding-left: 125px;
+            padding-top: 60px;
+        }
+        .foodcontainer{
+            display: flex;
+            flex-direction: column;
+        
+        }
+        
+        .breakfastfoodinfo{
+            text-align: none;
+        }
+     }
+     .lunchcontainer{
+        padding-left: 115px;
+     }
+}
+
+@media (max-width: 475px) {
+    header{
+        a{
+            font-size: 38pt;
+            padding-top: 13px;
+        }
+        .insta{
+            height: 45px;
+            width: 45px;
+            padding-left: 40px;
+            padding-right: 10px;
+            padding-top: 20px;
+        }
+        .facebook{
+            height: 45px;
+            width: 45px;
+            padding-top: 20px;
+        }
+        
+}
+.menusmall{
+    font-size: 14pt;
+
+}
+.menubig{
+    font-size: 19pt;
+}
+.mainmenupics{
+    padding-left: 25px;
+
+    .graffitiwall{
+        width: 200px;
+    }
+    .wallwithsign{
+        width: 200px;
+
+    }
+}
+.hero{
+    padding-left: 115px;
+}
+.ourstory{
+    font-size: 22pt;
+}
+.ourstoryphotos{
+    
+    .ourstory1{
+
+        width: 200px;
+    }
+    .ourstory2{
+        width: 200px;
+
+    }
+
+}
+.ourstorytext{
+    font-size: 9pt;
+    padding-left: 275px;
+    line-height: 30px;
+    max-width: fit-content;
+}
+.contactus{
+    font-size: 22pt;
+
+}
+.mapwidget{
+    width: 350px;
+    height: 100px;
+    padding-left: 60px;
+}
+.contactinfocontainer{
+    .address{
+        float: left;
+        padding-top: 20px;
+    }
+    .phone{
+float: left;
+padding-top: 20px;
+padding-left: 175px;
+    }
+    .hours{
+float: left;
+padding-top: 20px;
+padding-left: 160px;
+    }
+}
+.deliverylinkscontainer{
+    .deliverylinks{
+        padding-top: 500px;
+        font-size: 22pt;
+    }
+    .grubhublink{
+        font-size: 20pt;
+
+    }
+    .doordashlink{
+        font-size: 20pt;
+    }
+}
+.events{
+    padding-top: 35px;
+    font-size: 22pt;
+}
+.comingsoonevents{
+    font-size: 20pt;
+}
+.news{
+    padding-top: 35px;
+    font-size: 22pt;
+}
+.comingsoonnews{
+    font-size: 20pt;
+}
+
+.ourmenubody{
+    .ourmenu{
+        font-size: 50pt;
+    }
+    .home{
+        padding-top: 35px;
+        padding-left: 100px;
+        height: 50px;
+    }
+    .foodcontainer{
+        .breakfastcontainer{
+            .breakfasttitle{
+                font-size: 22pt;
+                padding-left: 50px;
+            }
+            .breakfastfood{
+                font-size: 12pt;
+                padding-left: 50px;
+            }
+            .breakfastfoodinfo{
+                font-size: 9pt;
+                padding-left: 50px;
+                text-align: none;
+            }
+        }
+        .lunchcontainer{
+            .lunchtitle{
+                font-size: 22pt;
+                padding-left: 50px;
+            }
+            .lunchfood{
+                font-size: 12pt;
+                padding-left: 50px;
+            }
+            .lunchfoodinfo{
+                font-size: 9pt;
+                padding-left: 50px;
+                text-align: none;
+            }
+        }
+     
+    }
+    .drinkscontainer{
+        .drinkstitle{
+            font-size: 22pt;
+        }
+        .drinks1and2{
+            padding-left: 0px;
+            .drinks1{
+                .drinks{
+                    font-size: 11pt;
+                    padding-left: 25px;
+                }
+            }
+            .drinks2{
+                .drinks{
+                    font-size: 11pt;
+
+                }
+            }
+            
+        }
+    }
+    .drinksprice{
+        font-size: 9pt;
+    }
+    .pastriescontainer{
+        .pastriestitle{
+            font-size: 22pt;
+        }
+    }
+    .otherscontainer{
+        .otherstitle{
+            font-size: 22pt;
+        }
+    }
+    .orderbuttoncontainer{
+        margin: 75px;
+        margin-left: 100px;
+    .ordernowbutton{
+        height: 50px;
+        width: 50px;
+    }
+}
+.ourmenufooter{
+    font-size: 18pt;
+    padding-left: 0;
+}
+}
+
+}
